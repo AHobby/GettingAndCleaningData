@@ -47,3 +47,5 @@ The specific files needed for this script are:
 * x_train.txt
 * y_test.txt
 * y_train.txt
+
+The full list of variables for the data is in the features.txt file. The CodeBook in the is repo explains the variables in the final output file average_data.txt.
