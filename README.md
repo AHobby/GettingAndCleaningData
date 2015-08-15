@@ -1,7 +1,5 @@
----
-title: "README.md"
-output: html_document
----
+## README
+####Getting and Cleaning Data course : project README file
 
 This repo, codebook, readMe and script are to meet the requirements of the Coursera Data Specialisation course "Getting and Cleaning data" project. All files are from the source named in the project description:
 

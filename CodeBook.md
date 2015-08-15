@@ -1,7 +1,6 @@
----
-title: "Getting and Cleaning Data Project CodeBook"
-output: html_document
----
+##Getting and Cleaning Data Project: CodeBook
+
+
 This repo, codebook, readMe and script are to meet the requirements of the Coursera Data Specialisation course "Getting and Cleaning data" project. All files are from the source named in the project description:
 
 * https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
