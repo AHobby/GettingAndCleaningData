@@ -67,10 +67,7 @@ colnames(all_data_activity) [3] <- "Subject"
 # then write that file back to the working directory as a txt file
 col_avg <- ddply(all_data_activity, .(Activity,Subject), function(x) colMeans(x[,4:69]))
 
-# would be better to have mean_OrigColName just to make it more obvious...
-# get the col names for 4:69
-# paste mean_ to the front of it
-# put the names back
+
 
 write.table(col_avg, "average_data.txt", row.name = FALSE)
 
